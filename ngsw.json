@@ -1,0 +1,116 @@
+{
+  "configVersion": 1,
+  "timestamp": 1589636776140,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/4-es5.03fe967bfbd9103bad34.js",
+        "/5-es2015.7bba003471d3d0439cae.js",
+        "/5-es5.60c829932d2812b69804.js",
+        "/6-es2015.104981f13ba98eff2660.js",
+        "/6-es5.cfdeea997cd1f62568b6.js",
+        "/7-es2015.60aa23b606ccf30e35d5.js",
+        "/7-es5.66180708c8c41e0c3eb3.js",
+        "/8-es2015.b61014686691d7babc6e.js",
+        "/8-es5.0b3601ede192c9516dcb.js",
+        "/9-es2015.0b6039638f0115e4c27c.js",
+        "/common-es2015.6bc88f5bc15271fe3e18.js",
+        "/common-es5.84ad1bc3dfa3cdcae4db.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.f2d2699bf0597a7a3576.js",
+        "/main-es5.b877e307e9ea7f610064.js",
+        "/polyfills-es2015.dddb64da39b068eae53e.js",
+        "/polyfills-es5.6aa5f82e71fb0d83e536.js",
+        "/runtime-es2015.e1dcb07362bb3bf7d689.js",
+        "/runtime-es5.349dbdac5c350d450a87.js",
+        "/styles.4e783c60a1c710718cae.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/file/MauThongBao.xlsx",
+        "/assets/file/MauTienLuong.xlsx",
+        "/assets/file/NhanHieuDLuc-Doc-150x150.jpg",
+        "/assets/file/now.json",
+        "/assets/froala_editor.pkgd.min.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/loading.gif",
+        "/loading.b2278b93841e8fdbb157.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4-es5.03fe967bfbd9103bad34.js": "2aac3c8f7ff7b90db7e30b9c72ca0eead6e612e3",
+    "/5-es2015.7bba003471d3d0439cae.js": "9ccc1000469175272aa7162c246f39a5bfdea4c6",
+    "/5-es5.60c829932d2812b69804.js": "5aca3311e10654b252dedad8f1e4dc636e9fe350",
+    "/6-es2015.104981f13ba98eff2660.js": "c04bd8bbf721e43073b7a4a64a9671036cd32b84",
+    "/6-es5.cfdeea997cd1f62568b6.js": "e1c7814ea253bfa7556a360007139a2c6214f14f",
+    "/7-es2015.60aa23b606ccf30e35d5.js": "562d06866550527db8745f432e445afd3e4194f5",
+    "/7-es5.66180708c8c41e0c3eb3.js": "6c1139107321eece6939990f5df9c464b53942d0",
+    "/8-es2015.b61014686691d7babc6e.js": "7ffbc1122ede42d8f16fb7e934220c85964ddf2b",
+    "/8-es5.0b3601ede192c9516dcb.js": "d06e1834511732709ce4a16d83a3fd787dbaa382",
+    "/9-es2015.0b6039638f0115e4c27c.js": "c40a5449710be93b5c3b96b500fb76fea507a6d9",
+    "/assets/file/MauThongBao.xlsx": "3de1bb7abd37acd0d3203322b4f8393a531fd195",
+    "/assets/file/MauTienLuong.xlsx": "a4919248d53f4e2e4c91bfaba32e9983698ce639",
+    "/assets/file/NhanHieuDLuc-Doc-150x150.jpg": "afdb61828faa4e1818e209b6e8829ba342b35410",
+    "/assets/file/now.json": "35c954368db338e189d1d85da6f33a11a53e4135",
+    "/assets/froala_editor.pkgd.min.css": "fc614d17e485978fdc5376dd58839a9ab4f15b75",
+    "/assets/icons/icon-128x128.png": "e1e3993142baf1202d83b673caf11923de551cbe",
+    "/assets/icons/icon-144x144.png": "45d6217f1b1f5f29f01a1f38b09dcba259937fe5",
+    "/assets/icons/icon-152x152.png": "bb66e1590295b526185cab31b351349440c56f74",
+    "/assets/icons/icon-192x192.png": "cedadd97506909ccf4897eda223be1b002d94853",
+    "/assets/icons/icon-384x384.png": "437bbba73c549053a1b946c1783d0dad1a2e78d4",
+    "/assets/icons/icon-512x512.png": "a524cc205b1b254c656154234b4050c9417e54ea",
+    "/assets/icons/icon-72x72.png": "8097c03a2fe9cb16235eb884c145cca1bc0d3061",
+    "/assets/icons/icon-96x96.png": "84c54e84a254cccb727dd6e9709ee79ec52a1e84",
+    "/assets/img/loading.gif": "b69f11b6b9ae7f5e860ab1a5c08035cff9498411",
+    "/common-es2015.6bc88f5bc15271fe3e18.js": "0641c81e51e2d5ab2df78b40bedf2fae2a821abf",
+    "/common-es5.84ad1bc3dfa3cdcae4db.js": "fcab358c1d8e8c1447ab7f3ea05ec545de0be102",
+    "/favicon.ico": "1166e78f4ebc8ad8e1d1460525edd5a690d05fd9",
+    "/index.html": "d06aaaaf733928fa3a8cdb857da9338453edd4a4",
+    "/loading.b2278b93841e8fdbb157.gif": "b69f11b6b9ae7f5e860ab1a5c08035cff9498411",
+    "/main-es2015.f2d2699bf0597a7a3576.js": "3479f72b6bd55e65272dcffd78c70b1aa18bf5c7",
+    "/main-es5.b877e307e9ea7f610064.js": "3df84230886e0ebfe80821ec9adddb898433e382",
+    "/polyfills-es2015.dddb64da39b068eae53e.js": "3a12e4e6bd3e7e6106f89b10dddfcc490c5f9e5c",
+    "/polyfills-es5.6aa5f82e71fb0d83e536.js": "2cf2f3fbbc1e546672f950c75c2db7d8761c7597",
+    "/runtime-es2015.e1dcb07362bb3bf7d689.js": "2700eb85d164aec023cbfbb30bce78f23a96c4da",
+    "/runtime-es5.349dbdac5c350d450a87.js": "cc8ecde3f260acfceeab52df605ff711416fb62c",
+    "/styles.4e783c60a1c710718cae.css": "5ea4708c2f5ffb364b2dabc3ef1b40c1084673f5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
