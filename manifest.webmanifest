@@ -1,6 +1,6 @@
 {
-  "name": "DLXL",
-  "short_name": "DLXL",
+  "name": "dlxl",
+  "short_name": "dlxl",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
