@@ -343,6 +343,9 @@ firebase/app
 
 firebase/firestore
 
+font-awesome
+(OFL-1.1 AND MIT)
+
 lodash-es
 MIT
 Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
