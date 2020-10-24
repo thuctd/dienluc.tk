@@ -13,6 +13,5 @@ call git add .
 
 
 call git commit -am %date%_%time%_%commit%
-call npm version patch
 call git push origin master -f
 PAUSE
