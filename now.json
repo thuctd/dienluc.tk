@@ -3,6 +3,6 @@
   "name": "dienluc.tk",
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "status": 404, "dest": "./public/index.html" }
+    { "src": "/.*", "status": 404, "dest": "public/index.html" }
   ]
 }
